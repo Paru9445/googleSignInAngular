@@ -8,7 +8,7 @@ declare const gapi: any;
 })
 export class GoogleSignInComponent implements OnInit, AfterViewInit {
 
-  private clientId:string = '1023829599409-qtntq9k07upbb7pqbi5eshmvundeq2f4.apps.googleusercontent.com';
+  private clientId:string = '1023829599409-q10um2mjql9cstb5hbsmta7hab3jkjga.apps.googleusercontent.com';
 
   private scope = [
     'profile',
